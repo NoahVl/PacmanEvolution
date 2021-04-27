@@ -2,7 +2,7 @@
 Repo for my Pacman NEAT training pet project. It can be found in the `/PacmanEvolution` folder.
 
 # Disclaimer
-This repo is not in active development. I started this pet project at the start of 2018. I stopped developing it because I was just interested how neuro-evolution would perform on the Pacman course for which we'd been manually crafting agents.
+This repo is not in active development. I started this pet project at the start of 2019. I stopped developing it because I was just interested how neuro-evolution would perform on the Pacman course for which we'd been manually crafting agents.
 
 I already expected that more sophisticated Reinforcement Learning methods were needed like Deep-Q learning for this problem. That hunch turned out to be true as the results on maze-like maps were kind of lackluster. But it does perform well on the small maps where it needs to find pellets, and sometimes on the small maps where it needs to avoid ghosts!
 
@@ -28,7 +28,7 @@ Example of a network that didn't learn that well:
 (Currently can't run it because I don't remember which testing package visualize needs to be imported from. I believe this is most likely from an old Neat-Python version.)
 
 # Acknowledgements
-Pacman environment provided originally by [UC Berkeley](http://ai.berkeley.edu/project_overview.html) and adapted by the Radboud University (code from AI B: Practical 2017-2018).
+Pacman environment provided originally by [UC Berkeley](http://ai.berkeley.edu/project_overview.html) and adapted by the Radboud University (code from AI B: Practical 2018-2019).
 
 NEAT inspiration provided by [Siraj](https://github.com/llSourcell/neuroevolution-for-flappy-birds) (can be found in the FlappyInspiration folder) who adapted it from the original author [rsk237](https://github.com/rsk2327/NEAT_FlappyBird).
 
